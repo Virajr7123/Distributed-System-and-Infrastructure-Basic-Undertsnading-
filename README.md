@@ -54,4 +54,6 @@ db> KEYS
 Keys: my_key
 db> DELETE my_key
 OK (Deleted)
+
+my_key(n) = user(n)
 ```
